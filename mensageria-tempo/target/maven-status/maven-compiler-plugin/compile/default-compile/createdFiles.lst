@@ -1,0 +1,3 @@
+com\example\rabbitmq\Produtor.class
+com\example\rabbitmq\Consumidor.class
+com\example\rabbitmq\ConsumidorCalcula.class
